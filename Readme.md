@@ -7,7 +7,7 @@ A website for searching news topics from the bbc news website.
 clone the repo
 
 ```
-git clone
+git clone https://github.com/Basliel-Amsalu/search.git
 ```
 
 install dependencies
