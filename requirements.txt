@@ -1,0 +1,8 @@
+flask
+beautifulsoup
+nltk
+spacy
+pandas
+numpy
+flask-cors
+sklearn
